@@ -7,7 +7,7 @@
 A modern **Company Profile Website** built with **Next.js, TypeScript, Tailwind CSS, and Framer Motion**.  
 Designed to deliver a **professional, responsive, and interactive** experience for showcasing company identity online.
 
-## 🔗 **Live Demo**:
+## 🔗 **Live Demo**:https://company-profile-wph021-ryandra.vercel.app/
 
 ## 🚀 Features
 
@@ -27,4 +27,5 @@ Designed to deliver a **professional, responsive, and interactive** experience f
 - [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework
 - [Framer Motion](https://www.framer.com/motion/) – Motion & animation library
 - [Lucide Icons](https://lucide.dev/) – Modern & lightweight icons
+
 # company-profile-wph021Ryandra
