@@ -12,7 +12,7 @@ const projects = [
 
 export default function Projects() {
   return (
-    <section className='relative w-full md:w-[1440px] h-auto md:h-[771px] bg-black overflow-hidden mx-auto flex flex-col items-center px-5 sm:px-8 py-12 sm:py-16'>
+    <section className='relative w-full h-auto md:h-[771px] bg-black overflow-hidden flex flex-col items-center px-5 sm:px-8 py-12 sm:py-16'>
       {/* Heading */}
       <h2 className='text-white font-bold text-2xl sm:text-3xl md:text-[40px] leading-tight mb-3 text-center'>
         Bridging Design and Development
